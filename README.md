@@ -1,3 +1,7 @@
+## My Tetris
+
+Get ready to play simple not-Tetris (C) (TM) (R) (:gasp:) with weak-chinned color choices.
+
 ## Welcome to GitHub Games
 
 A project based learning activity for people who are getting started with Git and GitHub.
